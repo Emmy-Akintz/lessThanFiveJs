@@ -1,6 +1,8 @@
 const randomNumTemplate = Math.random() * 10
 const randomNum = Math.round(randomNumTemplate)
 
+let output = document.querySelector("output")
+
 // console.log(randomNumTemplate);
 // console.log(randomNum);
 
